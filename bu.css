@@ -1,0 +1,24 @@
+.row {
+    display: flex;
+    margin: 20px;
+    border: 2px solid black;
+    padding: 25px;
+    border-radius: 10px;
+    background-image: linear-gradient(to right top, #cf1e83, #cb2290, #c6289e, #be2fab, #b438b9, #a93bc0, #9d3ec7, #8f42ce, #7f41d0, #6d40d1, #5740d3, #3940d4);
+}
+
+.col-1 {
+    width: 50%;
+    text-align: end;
+}
+
+.col-2 {
+    width: 50%;
+    padding: 20px;
+}
+
+.content-style {
+  font-size: 25px;
+  line-height: 35px;
+  font-family: 'Pacifico',serif ;
+}
